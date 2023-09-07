@@ -1,2 +1,2 @@
 # NTT-Lab-PJCT
-NTT-lab in divergence Built a SMB (small/medium business) network, with a LAN, DMZ, and Guest network. A Windows domain environment. A IIS webserver. A Windows FTP server. A Win10 workstation. A LAMP webserver running on Ubuntu, hosting a wiki. A FortiGate firewall, with a VIP for a DMZ webserver.
+NTT-lab that I completed through Divergence Academy. We built a SMB (small/medium business) network, with a LAN, DMZ, guest network, a Windows domain environment, IIS webserver, Windows FTP server, Win10 workstation, a LAMP webserver running on Ubuntu that is hosting a wiki, and a FortiGate firewall with a VIP for a DMZ webserver.
